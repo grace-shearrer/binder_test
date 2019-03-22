@@ -1,7 +1,0 @@
-numpy == 1.15.4
-pandas == 0.23.4
-sklearn  
-nilearn == 0.5.0
-multiprocess==0.70.7
-functools 
-beaker == 1.10.1
