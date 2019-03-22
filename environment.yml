@@ -9,6 +9,7 @@ dependencies:
   - anaconda-client=1.7.2
   - anaconda-navigator=1.9.6
   - anaconda-project=0.8.2
+  - appnope=0.1.0
   - appscript=1.0.1
   - asn1crypto=0.24.0
   - astroid=2.1.0
@@ -129,6 +130,8 @@ dependencies:
   - ld64=274.2
   - libarchive=3.3.3
   - libcurl=7.63.0
+  - libcxx=4.0.1
+  - libcxxabi=4.0.1
   - libdb=6.1.26
   - libedit=3.1.20170329
   - libffi=3.2.1
